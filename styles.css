@@ -1,0 +1,12 @@
+.navbar-header img {
+  height: 40px;   
+  width: auto;   
+  border-radius: 50%;
+}
+
+.container{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(236, 230, 175);
+    margin-top: 50px;
+}
